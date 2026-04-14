@@ -17,6 +17,11 @@ export const BUS_SERVICES: BusService[] = [
         roadName: "Blk 911, Buangkok Green",
     },
     {
+        serviceNo: "43A",
+        busStopCode: "66499",
+        roadName: "Blk 911, Buangkok Green",
+    },
+    {
         serviceNo: "156",
         busStopCode: "66499",
         roadName: "Blk 911, Buangkok Green",
